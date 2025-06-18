@@ -1,5 +1,5 @@
 <?php
-require 'vendor/autoload.php';
+require '../vendor/autoload.php';
 use CourierDZ\CourierDZ;
 use CourierDZ\Enum\ShippingProvider;
 
