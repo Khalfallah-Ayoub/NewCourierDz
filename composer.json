@@ -1,0 +1,14 @@
+{
+  "name": "my/app",
+  "require": {
+    "piteurstudio/courierdz": "dev-main"
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/PiteurStudio/CourierDZ"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
